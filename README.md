@@ -1,0 +1,1 @@
+Um programa que realiza dez perguntas de matemática para o usuário responder, caso o mesmo não acertar a resposta, a pergunta será repetida até obter o resultado correto e possui também um cronômetro para registrar o tempo para a resolução das perguntas.
